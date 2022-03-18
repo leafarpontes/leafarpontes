@@ -30,3 +30,7 @@
   <img align="center" title="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" title="Kubernetes" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 </div>
+
+---
+
+![](https://komarev.com/ghpvc/?username=leafarpontes&color=blueviolet)
